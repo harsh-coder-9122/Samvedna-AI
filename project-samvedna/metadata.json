@@ -1,0 +1,6 @@
+{
+  "name": "Project Samvedna",
+  "description": "Psychiatric Counselor & Mental Health Specialist AI for student psychological distress, depression, and risk detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
